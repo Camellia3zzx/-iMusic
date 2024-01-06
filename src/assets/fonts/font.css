@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "DQ";
+    font-weight: 400;
+    src: url("./DQ5kdqp0lH41.woff")format("woff"),
+    url("./DQ5kdqp0lH41.woff2")format("woff2");
+  
+    font-display: swap;
+}
+@font-face {
+    font-family: "EP";
+    font-weight: 400;
+    src: url("./epFafNTVlOL5.woff")format("woff"),
+    url("./epFafNTVlOL5.woff2")format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "po";
+    font-weight: 400;
+    src: url("./PollerOne.ttf")format("truetype");
+    font-display: swap;
+}
